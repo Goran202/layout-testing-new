@@ -1,0 +1,22 @@
+#outer {
+  margin: 50px;
+  border: solid black 10px;
+  padding: 330px;
+  outline: 2px dotted red;
+  background-color: blue;
+  /* color: orange; */
+}
+
+#inner2 {
+  color: orange;
+  background-color: yellow;
+  font-size: 250px;
+  border: solid black 10px;
+  margin: 30px;
+  outline: 2px dotted red;
+  /* background-color: yellow; */
+  /* color: orange; */
+}
+/* <div id="inner1"></div>
+      <div id="inner2"></div>
+      <div id="inner3"></div> */

@@ -1,0 +1,12 @@
+#inner2 {
+  color: orange;
+  background-color: yellow;
+  font-size: 250px;
+  border: solid black 10px;
+  margin: 30px;
+  outline: 2px dotted red;
+}
+
+.container {
+  background-color: blue;
+}
